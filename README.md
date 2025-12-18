@@ -71,9 +71,9 @@
 </head>
 <body>
   <header>
-    <h1>Power BI Data Transformation Assignment</h1>
+    <h1>Power BI Data Transformation Project</h1>
     <p><strong>Course:</strong> PL-300: Microsoft Power BI Data Analyst<br>
-    <strong>Lab:</strong> 02 – Transform Data in Power BI</p>
+    <strong> Transform Data in Power BI</p>
   </header>
 
   <section>
