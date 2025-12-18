@@ -40,9 +40,4 @@
   <footer>
     <p>Prepared by: Pang Kah Hwee | December 2025</p>
     <p>
-      This work is derived from Microsoft Learn training materials and is used for educational purposes only.<br>
-      Original content: <a href="https://learn.microsoft.com/training/" target="_blank">Microsoft Learn – PL-300</a>
-    </p>
-  </footer>
-</body>
-</html>
+     
