@@ -29,17 +29,6 @@
   </section>
 
   <section>
-    <h2>Instructions Summary</h2>
-    <ol>
-      <li><strong>Download & Setup</strong>
-        <ul>
-          <li>Download the lab assets from: <a href="https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/02-transform-data-power-bi/02-transform-data.zip" target="_blank">Download ZIP</a></li>
-          <li>Extract to: <code>C:\Users\Student\Downloads\02-transform-data</code></li>
-          <li>Open <code>02-Starter-Sales Analysis.pbix</code></li>
-        </ul>
-      </li>
-  
-  <section>
     <h2>Notes</h2>
     <ul>
       <li>This project adheres strictly to the PL-300 lab guidelines.</li>
