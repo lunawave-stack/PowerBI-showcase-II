@@ -1,10 +1,5 @@
 # PowerBI-showcase-II
 
-    <h1>Power BI Data Transformation Project</h1>
-    <p><strong> PL-300: Microsoft Power BI Data Analyst<br>
-    <strong> Transform Data in Power BI</p>
-  </header>
-
   <section>
     <h2>Overview</h2>
     <p>This assignment demonstrates core data cleansing, transformation, and modeling techniques using <strong>Power Query Editor</strong> in <strong>Power BI Desktop</strong>. The goal is to prepare raw datasets from a SQL Server source and a CSV file into a structured semantic model suitable for business analytics.</p>
@@ -43,17 +38,6 @@
           <li>Open <code>02-Starter-Sales Analysis.pbix</code></li>
         </ul>
       </li>
-     
-         
-
-    <h3>Final Model</h3>
-    <ul>
-      <li><strong>8 queries</strong> configured in Power Query</li>
-      <li><strong>7 tables</strong> loaded into the semantic model (excluding <code>ColorFormats</code>)</li>
-      <li>All column names standardized for clarity and usability</li>
-      <li>Data types optimized for aggregation and reporting</li>
-    </ul>
-  </section>
   
   <section>
     <h2>Notes</h2>
